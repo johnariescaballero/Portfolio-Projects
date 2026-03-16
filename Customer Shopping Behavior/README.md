@@ -30,7 +30,7 @@ Once stored in MySQL, I performed complex queries to extract business KPIs:
 
 ### 3. Data Visualization & Modeling (Power BI)
 The final stage involved connecting Power BI to the MySQL database to build an interactive **Customer Behavior Dashboard**.
-![Customer Behavior Dashboard]([Customer%20Shopping%20Behavior/Visuals/powerbi_dashboard_preview.png](https://github.com/johnariescaballero/Portfolio-Projects/blob/a06bdbfa7fb467e2c53611b688262e1e8a68931b/Customer%20Shopping%20Behavior/Visuals/powerbi_dashboard_preview.png))
+![Customer Behavior Dashboard](![Customer Behavior Dashboard](https://github.com/johnariescaballero/Portfolio-Projects/blob/main/Customer%20Shopping%20Behavior/Visuals/powerbi_dashboard_preview.png?raw=true)
 
 #### **Key Features:**
 * **DAX Measures:** Developed custom measures for `Average Purchase Amount`, `Total Revenue`, and `Customer Count`.
