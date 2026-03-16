@@ -20,4 +20,4 @@ This dashboard analyzes Net Promoter Scores (NPS) and ticket volumes to identify
 
 Version Control: GitHub.
 
-<img width="1412" height="674" alt="dashboard_preview" src="[https://github.com/user-attachments/assets/21f17192-256d-4f81-8333-c3589290147a](https://github.com/johnariescaballero/Portfolio-Projects/blob/1557f3fe1710087285cf1d6b8407c677cac63abe/Customer%20Sentiment%20Analysis/dashboard_preview.png)" />
+![Dashboard Preview](dashboard_preview.png)
