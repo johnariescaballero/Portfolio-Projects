@@ -47,6 +47,6 @@ The final stage involved connecting Power BI to the MySQL database to build an i
 ---
 
 ## 📂 How to Use
-1. **Python:** Run the `cleaning.ipynb` notebook to see the ETL process.
-2. **SQL:** Execute the scripts in `analysis.sql` to view the EDA queries.
-3. **Power BI:** Open the `.pbix` file to interact with the dashboard.
+1. **Python:** Run the `Customer Shopping Behavior Analysis` notebook in /Scripts to see the ETL process.
+2. **SQL:** Execute the scripts in `customer_shopping_behaviour_analysis` in / Scripts to view the EDA queries.
+3. **Power BI:** Open the `.pbix` file in /Visuals to interact with the dashboard.
