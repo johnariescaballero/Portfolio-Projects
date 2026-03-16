@@ -22,4 +22,4 @@ This project focuses on the cleaning and exploratory analysis of a Nashville Hou
 * Scripts/02_eda_queries.sql: (Coming Soon) Market trend analysis.
 * Visuals/: Contains the schema diagram.
 
-<img width="346" height="535" alt="Nashville_Housing_ERD" src="https://github.com/user-attachments/assets/5d5fd6c6-795a-4156-aa7a-a6545a1bc78b" />
+<img width="346" height="535" alt="Nashville_Housing_ERD" src="Nashville Housing/Visuals/Nashville_Housing_ERD..png" />
